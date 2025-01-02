@@ -18,6 +18,11 @@ body {
   font-weight: 200;
 }
 
+.navbar-social-icons {
+  scale: 0.5;
+  margin-right: -18px;
+}
+
 .intro-hero {
     text-align: center;
     /*padding-top: 300px;
