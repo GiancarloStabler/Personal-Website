@@ -14,7 +14,7 @@ body {
 }
 
 .navbar-brand {
-  font-family: "newsreader-regular";
+  /*font-family: "newsreader-regular";*/
   font-weight: 200;
 }
 
@@ -31,8 +31,8 @@ body {
 }
 
 .intro-hero-text {
-    font-family: "newsreader-regular";
-    font-weight: 200;
+    font-family: "Newsreader";
+    font-weight: 300;
     font-size: 40px;
 }
 
